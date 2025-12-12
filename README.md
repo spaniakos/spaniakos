@@ -1,4 +1,4 @@
-# 👋 Giorgos Spanos (spaniakos)
+# 👋 Giorgos Spanos (spaniakos) (drvspan)
 
 ### 🧠 Software Architect · 🔐 Security Engineer · ⚙️ Full-Stack Developer  
 > *“I can connect anything with everything.”*
